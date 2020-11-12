@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/RobbiAtthoriq/Sinyal-LIFI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobbiAtthoriq/Sinyal-LIFI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Sinyal LIFI
+ # Sinyal Li-FiLifi   merupakan   bentuk   komunikasi   cahaya   tampak   dan   bagian   darikomunikasi   nirkabel   optik   atau   biasa   disebut  optical wireless communications(OWC) dan bisa menjadi pelengkap komunikasi RF (wifi atau jaringan selular),atau bahkan pengganti di konteks penyiaran data.Pengembangan   dalam   peggunaan  light emitting dioda  (LED)   untukpenerangan   memberikan   kesempatan   untuk   menggabungkan   teknologi   lifi   kesejumlah lingkungan LED. Lifi sangat cocok untuk penggunaan jaringan internet,dengan berbagai konten aplikasi populer seperti video dan audio download, livestreaming,   dan   lain-lain.  Aplikasi   ini   membutuhkan   bandwidth   downlink   yangcukup  besar,  tetapi membutuhkan  kapasitas  uplink yang  minimum. Dengan inisebagian   besar   lalu   lintas   internet   off-load   dari   sinyal   RF   dapat   memperluaskapasitas seluler dan wifi.Lifi memiliki keunggulan yang berguna di daerah sensitif elektromagnetikseperti   di   kabin   pesawat,   rumah   sakit,   dan   pembangkit   listrik   tenaga   nuklir(PLTN)   tanpa   menyebabkan   interferensi   elektromagnetik.   Wifi   dan   lifimengirimkan  data  pada spektrum elektro  magnetik.   Namun  wifi menggunakangelonbang radio, sedangkan lifi menggunakan gelombang cahaya. sementara ituKomisi Komunikasi Federal AS telah memperingatkan krisi spektrum potensialkarena wifi telah  mendekati  over capacity. Lifi hampir  tidak  memiliki batasankapasitas.   Spektrum   pada   cahaya   adalah   10.000   kali   lebih   besar   dari   seluruhfrekuensi radio. [3]BG-Fi adalah sistem lifi yang terdiri dari aplikasi untuk perangkat mobile,dengan produk yang sederhana, seperti perangkat internet of things (IoT) dengansensor warna, mikrokontroller, dan perangkat lunak yang tertanam pada mobile.Cahaya  dari  layar   perangkat  mobile  berkomunikasi  dengan   sensor  warna  yangmengubah   cahaya   menjadi   informasi   digital.   Dioda   pemancar   cahaya memungkinkan   produk   konsumen   untuk   berkomunikasi   serentak   denganperangkat mobile.
+ # Pengaplikasian sinyal Li-Fi
+ Lifi ini dapat di apliksikan pada perangkat apapun seperti berikut:Pada   RF   spektrum,   lifi   dapat   membantu   mengurangi   kapasitas   kelebihanjaringan   selular   yang   off-load   ke  jaringan.   Sehingga   dapat  sangat  efektif   padadownlink dimana kemacetan cenderung sering terjadi.
+ pada smart lighting, setiap pencahayaan pribadi atau publik termasuk lampujalan dapat digunakan sebagai penyedia hotspot lifi dan komunikasi yang samadan infrastruktur sensor dapat digunakan untuk memantau kontrol pencahayaandan data.Pada konektivitas ponsel, laptop,  smart phone, tablet, dan perangkat mobilelainnya   dapat   melakukan   interkoneksi   langsung   menggunakan   lifi.   Denganberbagai link yang pendek memberikan kecepatan data yang sangat tinggi danjuga menyediakan keamanan.Pada lingkup yang berbahaya, lifi memberikan alternatif yang aman terhadapinterferensi elektromagnetik dari komunikasi frekuensi radio di lingkungan sepertitambang dan pabrik petrokimia.Pada   rumah   sakit   dan   healthcare,   lifi   tidak   akan   memancarkan   gangguanelektromagnetik   dan   tidak   mengganggu   peralatan   medis   dan   juga   tidak   akanterganggu oleh scanner MRI.Pada aviator pesawat, lifi dapat digunakan untuk mengurangi berat badan dankabel. Juga dapat menambah fleksibilitas pada kursi di kabin penumpang bagianlayout  pesawat,   dimana   lampu   LED   sudah   digunakan.   Sistem   In-flightEntertaiment  (IFE)   juga   dapat   terdukung   dan   terintegrasi   dengan   perangkatmobile penumpang itu sendiri.Pada   komunikasi   underwater,   karena   pada   komunikasi   underwatermembutuhkan penyerapan sinyal yang kuat di dalam air, penggunaan RF tidakpraktis.   Gelombang   akustik   memiliki   bandwidth   yang   sangat   rendah   danmengganggu kehidupan laut. Dna lifi memberikan solusi untuk komunikasi jarakpendek.Pada   kendaraan   dan   transportasi   umum,   lampu   LED   dan   lampu  tail-lightsedang   diperkenalkan.   Lampu   jalan,   signage   dan   sinyal   lalu   lintas   jugamenggunakan lampu LED. Dan ini dapat dugunakan untuk kendaraan-kendaraandi pinggir jalan untuk komunikasi.Untuk mengurangi penggunaan sinyal RF, beberapa orang mengklaim bahwamereka sangat peka terhadap frekuensi radio sehingga mencari alternatif lain, danlifi memberikan solusi atas masalah tersebut.Pada LBS (Location Based Service) lifi memberikan layanan informasi lokasiyang spesifik yang sangat akurat seperti navigasi yang memungkinkan penerimauntuk menerima informasi terkait yang sesuai pada waktu dan lokasi yang tepat.
+ # . Cara kerja Li-Fi
+ Teknologi OWC ini menggunakan cahaya dari dioda pemancar cahaya(LED)   sebagai   media   untuk   menyampaikan   jaringan   pada   ponsel.   Komunikasikecepatan   tinggi   seperti   menggunakan   komunikasi   dengan   wifi.   Komunikasicahaya atau  visible light communication (VLC) bekerja dengan beralih arus keLED off, dan pada tingkatan yang sangat tinggi, sehingga tidak dapat dilihat olehmata manusia karena terlalu cepat untuk dperhatikan. Meskipun lifi LED akanterus mengirimkan data, mereka bisa meredup dibawah visibilitas manusia saaatmasih   memancarkan     cahaya   yang   cukup   untuk   membawa   data.   Gelombangcahaya itu  tidak  dapat menembus  dinding sehingga membuat sinyal yang jauhmenjadi pendek. Meskipun lebih aman dari hacking, yang relatif terjadi pada wifi.Sambungan langsung dari sight tidak diperlukan unutk lifi dalam mengirimkansinyal, karena cahaya yang dipantulkan dari dinding dapat mencapai 70 Mbps.
